@@ -10,19 +10,25 @@ Se hace lo siguiente:
 -FORMULARIO: editar pedidos
 
 RestaurantsScreen:
+
 ![alt text](image.png)
 
 RestaurantsScreen -> Pressable Edit -> EditRestaurant FORMULARIO
+
 ![alt text](image-1.png)
 
 RestaurantsScreen -> Pressable Restaurant -> RestaurantDetails
+
 ![alt text](image-2.png)
 
 RestaurantDetails -> Pressable Edit -> EditProduct  FORMULARIO
+
 ![alt text](image-3.png)
 
 RestaurantDetails -> Pressable Check Orders -> OrdersScreen
+
 ![alt text](image-4.png)
 
 OrdersScreen -> Pressable Edit -> EditOrder
+
 ![alt text](image-5.png)
