@@ -1,1 +1,0 @@
-# examen-iissi2-frontend-sofiam
