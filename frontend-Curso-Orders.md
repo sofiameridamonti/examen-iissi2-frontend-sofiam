@@ -11,24 +11,24 @@ Se hace lo siguiente:
 
 RestaurantsScreen:
 
-![alt text](image.png)
+![alt text](./data-images/images_orders/image.png)
 
 RestaurantsScreen -> Pressable Edit -> EditRestaurant FORMULARIO
 
-![alt text](image-1.png)
+![alt text](./data-images/images_orders/image-1.png)
 
 RestaurantsScreen -> Pressable Restaurant -> RestaurantDetails
 
-![alt text](image-2.png)
+![alt text](./data-images/images_orders/image-2.png)
 
 RestaurantDetails -> Pressable Edit -> EditProduct  FORMULARIO
 
-![alt text](image-3.png)
+![alt text](./data-images/images_orders/image-3.png)
 
 RestaurantDetails -> Pressable Check Orders -> OrdersScreen
 
-![alt text](image-4.png)
+![alt text](./data-images/images_orders/image-4.png)
 
 OrdersScreen -> Pressable Edit -> EditOrder
 
-![alt text](image-5.png)
+![alt text](./data-images/images_orders/image-5.png)

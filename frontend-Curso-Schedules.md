@@ -6,16 +6,16 @@ RestaurantScreen es igual que en frontend-Curso-Orders
 RestaurantDetails:
 Cambia que añade el emoji se horario y pone la hora.
 
-![alt text](image.png)
+![alt text](./data-images/imagen_schedules/image.png)
 
 RestaurantDetails -> Pressable Manage Schedules -> RestaurantSchedulesScreen
 
-![alt text](image-1.png)
+![alt text](./data-images/imagen_schedules/image-1.png)
 
 RestaurantSchedulesScreen -> Pressable Edit -> EditSchedulesScreen
 
-![alt text](image-2.png)
+![alt text](./data-images/imagen_schedules/image-2.png)
 
 RestaurantSchedulesScreen -> Pressable Create Schedule -> CreateSchedulesScreen FORMULARIO
 
-![alt text](image-3.png)
+![alt text](./data-images/imagen_schedules/image-3.png)
