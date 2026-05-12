@@ -23,7 +23,7 @@ emptyContainer: {
 }
 ```
 
-![alt text](image-3.png)
+![alt text](./data-images/images_estilos/image-3.png)
 Este se ha utilizado para que los contenedores de productos populares apareczan en el centro, es como un contenedor de contenedores.
 ```javascript
 / Alineación básica en horizontal
@@ -31,7 +31,7 @@ container2: {
     flexDirection: 'row' // Se usa para poner la imagen a la izquierda y el texto a la derecha dentro de las tarjetas blancas
 }
 ```
-![alt text](image-4.png)
+![alt text](./data-images/images_estilos/image-4.png)
 Para crear estas card de productos utilizamos ImageCard
 ```javascript
 //Tenemos que pasarle la imageUri para que muestre la foto, sino saldría exactamente igual pero con la foto en blanco
@@ -61,7 +61,7 @@ containerCenter: {
 }
 ```
 
-![alt text](image-1.png)
+![alt text](./data-images/images_estilos/image-1.png)
 ```javascript
 // Estilo para los encabezados o títulos
 title: {
@@ -89,7 +89,7 @@ actions: {
     gap: 10                  // Espacio automático de 10px entre cada botón
 }
 ```
-![alt text](image-2.png)
+![alt text](./data-images/images_estilos/image-2.png)
 ```javascript
 // Estilo del botón (el "Pressable" o "TouchableOpacity")
 button: {
@@ -108,7 +108,7 @@ textButtom: {
     textAlign: 'center'      // Asegura que el texto esté centrado
 }
 ```
-![alt text](image-6.png)
+![alt text](./data-images/images_estilos/image-6.png)
 
 PARA LOS BOTONES EDIT Y ADVANCE
 
@@ -158,7 +158,7 @@ style={({ pressed }) => [
 ```
 
 
-![alt text](image-5.png)
+![alt text](./data-images/images_estilos/image-5.png)
 ```javascript
 analyticsContainer: {
     backgroundColor: GlobalStyles.brandPrimaryTap,
