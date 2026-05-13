@@ -24,6 +24,7 @@ emptyContainer: {
 ```
 
 ![alt text](./data-images/images_estilos/image-3.png)
+
 Este se ha utilizado para que los contenedores de productos populares apareczan en el centro, es como un contenedor de contenedores.
 ```javascript
 / Alineación básica en horizontal
@@ -32,6 +33,7 @@ container2: {
 }
 ```
 ![alt text](./data-images/images_estilos/image-4.png)
+
 Para crear estas card de productos utilizamos ImageCard
 ```javascript
 //Tenemos que pasarle la imageUri para que muestre la foto, sino saldría exactamente igual pero con la foto en blanco
